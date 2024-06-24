@@ -1,0 +1,15 @@
+1> git init
+2> git clone https://github.com/andreidanutmihai85/project
+3> git add .
+4> git commit -m "message"
+6> git push
+
+7> optional >> git push origin master << si se verifica in github.com daca esti pe master sau main
+
+
+Pentru receive:
+1> git init
+2> git pull
+
+
+***La inceput pe un laptop nou trebuie sa generezi cheia SSH din linia de bash visual code, pe care ulterior sa o inregistrezi in github.com
