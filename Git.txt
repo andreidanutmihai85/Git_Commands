@@ -13,3 +13,20 @@ Pentru receive:
 
 
 ***La inceput pe un laptop nou trebuie sa generezi cheia SSH din linia de bash visual code, pe care ulterior sa o inregistrezi in github.com
+
+
+EROARE add. :
+
+Asus@DESKTOP-K4KUBP2 MINGW64 /e/JS Work/Ratufa
+
+$ git add .
+
+fatal: detected dubious ownership in repository at 'E:/JS Work/Ratufa'
+'E:/JS Work/Ratufa' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+        git config --global --add safe.directory 'E:/JS Work/Ratufa'         >>>>>>>> se ruleaza comanda asta in urmatoarea linie de comanda
+
+Asus@DESKTOP-K4KUBP2 MINGW64 /e/JS Work/Ratufa
+
+$ git config --global --add safe.directory 'E:/JS Work/Ratufa'
