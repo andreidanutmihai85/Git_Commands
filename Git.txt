@@ -30,3 +30,9 @@ To add an exception for this directory, call:
 Asus@DESKTOP-K4KUBP2 MINGW64 /e/JS Work/Ratufa
 
 $ git config --global --add safe.directory 'E:/JS Work/Ratufa'
+
+
+Alte comenzi:
+git pull --rebase
+and then:
+git push -f origin master
