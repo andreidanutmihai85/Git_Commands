@@ -2,7 +2,7 @@
 2> git clone https://github.com/andreidanutmihai85/project
 3> git add .
 4> git commit -m "message"
-6> git push
+6> git push sau git push -u origin main
 
 7> optional >> git push origin master << si se verifica in github.com daca esti pe master sau main
 
@@ -58,3 +58,4 @@ git push -u origin main
 
 
 ===============================================COMENZI ORIGINALE DE PE GITHUB======================================
+
